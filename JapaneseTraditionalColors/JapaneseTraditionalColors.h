@@ -2,8 +2,8 @@
 //  JapaneseTraditionalColors.h
 //  JapaneseTraditionalColors
 //
-//  Created by 望月歩 on 2016/10/21.
-//  Copyright © 2016年 望月歩. All rights reserved.
+//  Created by ayumu on 2016/10/21.
+//  Copyright © 2016 ayumu. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
