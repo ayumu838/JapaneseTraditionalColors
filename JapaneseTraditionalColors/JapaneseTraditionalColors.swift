@@ -86,5 +86,19 @@ public extension JTColor {
     public class var tyoShun : JTColor { return JTColor(red: 201, green: 117, blue: 134) }
     /** 梅鼠 umeNezu: #colorLiteral(red: 0.7529411765, green: 0.6, blue: 0.6274509804, alpha: 1)*/
     public class var umeNezu : JTColor { return JTColor(red: 192, green: 153, blue: 160) }
+    /** 鴇浅葱 tokiAsagi: #colorLiteral(red: 0.7215686275, green: 0.5333333333, blue: 0.5176470588, alpha: 1)*/
+    public class var tokiAsagi : JTColor { return JTColor(red: 184, green: 136, blue: 132) }
+    /** 梅染 umeZome: #colorLiteral(red: 0.7058823529, green: 0.5411764706, blue: 0.462745098, alpha: 1)*/
+    public class var umeZome : JTColor { return JTColor(red: 180, green: 138, blue: 118) }
+    /** 蘇芳香 suOko: #colorLiteral(red: 0.6588235294, green: 0.4117647059, blue: 0.3960784314, alpha: 1)*/
+    public class var suOko : JTColor { return JTColor(red: 168, green: 105, blue: 101) }
+    /** 真朱 maso: #colorLiteral(red: 0.9254901961, green: 0.4274509804, blue: 0.4431372549, alpha: 1)*/
+    public class var maso : JTColor { return JTColor(red: 236, green: 109, blue: 113) }
+    /** 赤紫 akaMurasaki: #colorLiteral(red: 0.9215686275, green: 0.431372549, blue: 0.6470588235, alpha: 1)*/
+    public class var akaMurasaki : JTColor { return JTColor(red: 235, green: 110, blue: 165) }
+    /** 躑躅色 thuthuzi: #colorLiteral(red: 0.9137254902, green: 0.3215686275, blue: 0.5843137255, alpha: 1)*/
+    public class var thuthuzi : JTColor { return JTColor(red: 233, green: 82, blue: 149) }
+    /** 牡丹色 botan: #colorLiteral(red: 0.9058823529, green: 0.3764705882, blue: 0.6196078431, alpha: 1)*/
+    public class var botan : JTColor { return JTColor(red: 231, green: 96, blue: 158) }
 
 }
