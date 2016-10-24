@@ -76,5 +76,15 @@ public extension JTColor {
     public class var momoHana: JTColor { return JTColor(red: 225, green: 152, blue: 180) }
     /** 水柿 mizuGaki: #colorLiteral(red: 0.8941176471, green: 0.6705882353, blue: 0.6078431373, alpha: 1)*/
     public class var mizuGaki: JTColor { return JTColor(red: 228, green: 171, blue: 155) }
+    /** ときがら茶 toragakiTya: #colorLiteral(red: 0.8784313725, green: 0.6196078431, blue: 0.5294117647, alpha: 1)*/
+    public class var toragakiTya : JTColor { return JTColor(red: 224, green: 158, blue: 135) }
+    /** 退紅 araZome: #colorLiteral(red: 0.8392156863, green: 0.5647058824, blue: 0.5647058824, alpha: 1)*/
+    public class var araZome : JTColor { return JTColor(red: 214, green: 144, blue: 144) }
+    /** 薄柿 usuGaki: #colorLiteral(red: 0.831372549, green: 0.6745098039, blue: 0.6784313725, alpha: 1)*/
+    public class var usuGaki : JTColor { return JTColor(red: 212, green: 172, blue: 173) }
+    /** 長春色 tyoShun: #colorLiteral(red: 0.7882352941, green: 0.4588235294, blue: 0.5254901961, alpha: 1)*/
+    public class var tyoShun : JTColor { return JTColor(red: 201, green: 117, blue: 134) }
+    /** 梅鼠 umeNezu: #colorLiteral(red: 0.7529411765, green: 0.6, blue: 0.6274509804, alpha: 1)*/
+    public class var umeNezu : JTColor { return JTColor(red: 192, green: 153, blue: 160) }
 
 }
