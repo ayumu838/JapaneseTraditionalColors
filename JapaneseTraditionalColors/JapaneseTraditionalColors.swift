@@ -68,8 +68,8 @@ public extension JTColor {
     public class var haiZakura: JTColor { return JTColor(red: 232, green: 211, blue: 209) }
     /** 淡紅藤 awabeniHuji: #colorLiteral(red: 0.9019607843, green: 0.8039215686, blue: 0.8901960784, alpha: 1)*/
     public class var awabeniHuji: JTColor { return JTColor(red: 230, green: 205, blue: 227) }
-    /** 石竹色 sekiTiku: #colorLiteral(red: 0.8980392157, green: 0.6705882353, blue: 0.7450980392, alpha: 1)*/
-    public class var sekiTiku: JTColor { return JTColor(red: 229, green: 171, blue: 190) }
+    /** 石竹色 sekiChiku: #colorLiteral(red: 0.8980392157, green: 0.6705882353, blue: 0.7450980392, alpha: 1)*/
+    public class var sekiChiku: JTColor { return JTColor(red: 229, green: 171, blue: 190) }
     /** 薄紅梅  usuKoubai: #colorLiteral(red: 0.8980392157, green: 0.5921568627, blue: 0.6980392157, alpha: 1)*/
     public class var usuKoubai: JTColor { return JTColor(red: 229, green: 151, blue: 178) }
     /** 桃花色 momoHana: #colorLiteral(red: 0.8823529412, green: 0.5960784314, blue: 0.7058823529, alpha: 1)*/
