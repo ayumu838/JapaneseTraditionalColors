@@ -100,5 +100,15 @@ public extension JTColor {
     public class var thuthuzi : JTColor { return JTColor(red: 233, green: 82, blue: 149) }
     /** 牡丹色 botan: #colorLiteral(red: 0.9058823529, green: 0.3764705882, blue: 0.6196078431, alpha: 1)*/
     public class var botan : JTColor { return JTColor(red: 231, green: 96, blue: 158) }
+    /** 今様色 imayo: #colorLiteral(red: 0.8156862745, green: 0.3411764706, blue: 0.4196078431, alpha: 1)*/
+    public class var imayo :JTColor { return JTColor(red: 208, green: 87, blue: 107)}
+    /** 中紅 nakaBeni: #colorLiteral(red: 0.7843137255, green: 0.3176470588, blue: 0.4745098039, alpha: 1)*/
+    public class var nakaBeni :JTColor { return JTColor(red: 200, green: 81, blue: 121)}
+    /** 薔薇色 bara: #colorLiteral(red: 0.9137254902, green: 0.3294117647, blue: 0.3921568627, alpha: 1)*/
+    public class var bara :JTColor { return JTColor(red: 233, green: 84, blue: 107)}
+    /** 韓紅 karaKurenai: #colorLiteral(red: 0.9058823529, green: 0.3764705882, blue: 0.6196078431, alpha: 1)*/
+    public class var karaKurenai :JTColor { return JTColor(red: 233, green: 84, blue: 100)}
+    /** 銀朱 ginShu: #colorLiteral(red: 0.7843137255, green: 0.3333333333, blue: 0.3294117647, alpha: 1)*/
+    public class var ginShu :JTColor { return JTColor(red: 200, green: 85, blue: 84)}
 
 }
