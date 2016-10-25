@@ -124,5 +124,23 @@ public extension JTColor {
     public class var kokiHi :JTColor { return JTColor(red: 201, green: 23, blue: 30) }
     /** 緋色 hi: #colorLiteral(red: 0.8274509804, green: 0.2196078431, blue: 0.1098039216, alpha: 1)*/
     public class var hi :JTColor { return JTColor(red: 211, green: 56, blue: 28) }
+    /** 赤丹 akani: #colorLiteral(red: 0.8078431373, green: 0.3215686275, blue: 0.2588235294, alpha: 1)*/
+    public class var akani : JTColor { return JTColor(red: 206, green: 82, blue: 66) }
+    /** 紅赤 beniAka: #colorLiteral(red: 0.8509803922, green: 0.2, blue: 0.2470588235, alpha: 1)*/
+    public class var beniAka : JTColor { return JTColor(red: 217, green: 51, blue: 63) }
+    /** 臙脂 enji: #colorLiteral(red: 0.7254901961, green: 0.2509803922, blue: 0.2784313725, alpha: 1)*/
+    public class var enji : JTColor { return JTColor(red: 185, green: 64, blue: 71) }
+    /** 朱 ake: #colorLiteral(red: 0.7294117647, green: 0.1490196078, blue: 0.2117647059, alpha: 1)*/
+    public class var ake : JTColor { return JTColor(red: 186, green: 38, blue: 54) }
+    /** 茜色 akane: #colorLiteral(red: 0.7176470588, green: 0.1568627451, blue: 0.1803921569, alpha: 1)*/
+    public class var akane : JTColor { return JTColor(red: 183, green: 40, blue: 46) }
+    /** 紅海老茶 beniEbiTya: #colorLiteral(red: 0.6549019608, green: 0.2196078431, blue: 0.2117647059, alpha: 1)*/
+    public class var beniEbiTya : JTColor { return JTColor(red: 167, green: 56, blue: 54) }
+    /** 蘇芳 suo: #colorLiteral(red: 0.6196078431, green: 0.2392156863, blue: 0.2470588235, alpha: 1)*/
+    public class var suo : JTColor { return JTColor(red: 158, green: 61, blue: 63) }
+    /** 真紅 sinku: #colorLiteral(red: 0.6352941176, green: 0.1254901961, blue: 0.2549019608, alpha: 1)*/
+    public class var sinku : JTColor { return JTColor(red: 162, green: 32, blue: 65) }
+    /** 濃紅 koiKurenai: #colorLiteral(red: 0.6352941176, green: 0.1254901961, blue: 0.2549019608, alpha: 1)*/
+    public class var koiKurenai : JTColor { return JTColor(red: 162, green: 32, blue: 65) }
 
 }
