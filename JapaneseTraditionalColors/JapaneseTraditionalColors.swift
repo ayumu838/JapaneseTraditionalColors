@@ -110,5 +110,19 @@ public extension JTColor {
     public class var karaKurenai :JTColor { return JTColor(red: 233, green: 84, blue: 100)}
     /** 銀朱 ginShu: #colorLiteral(red: 0.7843137255, green: 0.3333333333, blue: 0.3294117647, alpha: 1)*/
     public class var ginShu :JTColor { return JTColor(red: 200, green: 85, blue: 84)}
+    /** 赤紅 akaBeni: #colorLiteral(red: 0.7725490196, green: 0.2392156863, blue: 0.262745098, alpha: 1)*/
+    public class var akaBeni :JTColor { return JTColor(red: 197, green: 61, blue: 67) }
+    /** 紅緋 beniHi: #colorLiteral(red: 0.9098039216, green: 0.2235294118, blue: 0.1607843137, alpha: 1)*/
+    public class var beniHi :JTColor { return JTColor(red: 232, green: 57, blue: 41) }
+    /** 赤 aka: #colorLiteral(red: 0.9019607843, green: 0, blue: 0.2, alpha: 1)*/
+    public class var aka :JTColor { return JTColor(red: 230, green: 0, blue: 51) }
+    /** 猩々緋 syozyoHi: #colorLiteral(red: 0.8862745098, green: 0.01568627451, blue: 0.1058823529, alpha: 1)*/
+    public class var syozyoHi :JTColor { return JTColor(red: 226, green: 4, blue: 27) }
+    /** 紅 kurenai: #colorLiteral(red: 0.8431372549, green: 0, blue: 0.2274509804, alpha: 1)*/
+    public class var kurenai :JTColor { return JTColor(red: 215, green: 0, blue: 58) }
+    /** 深緋 kokiHi: #colorLiteral(red: 0.7882352941, green: 0.09019607843, blue: 0.1176470588, alpha: 1)*/
+    public class var kokiHi :JTColor { return JTColor(red: 201, green: 23, blue: 30) }
+    /** 緋色 hi: #colorLiteral(red: 0.8274509804, green: 0.2196078431, blue: 0.1098039216, alpha: 1)*/
+    public class var hi :JTColor { return JTColor(red: 211, green: 56, blue: 28) }
 
 }
