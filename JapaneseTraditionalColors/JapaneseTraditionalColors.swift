@@ -142,5 +142,9 @@ public extension JTColor {
     public class var sinku : JTColor { return JTColor(red: 162, green: 32, blue: 65) }
     /** 濃紅 koiKurenai: #colorLiteral(red: 0.6352941176, green: 0.1254901961, blue: 0.2549019608, alpha: 1)*/
     public class var koiKurenai : JTColor { return JTColor(red: 162, green: 32, blue: 65) }
+    /** 象牙色 zouge: #colorLiteral(red: 0.9725490196, green: 0.9568627451, blue: 0.9019607843, alpha: 1)*/
+    public class var zouge : JTColor { return JTColor(red: 248, green: 244, blue: 230) }
+    /** 練色 neri: #colorLiteral(red: 0.9294117647, green: 0.8941176471, blue: 0.8039215686, alpha: 1)*/
+    public class var neri : JTColor { return JTColor(red: 237, green: 228, blue: 205) }
 
 }
